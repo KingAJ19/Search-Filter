@@ -14,7 +14,7 @@ function liveSearch() {
         }
     }
 }
-
+   
 //A little delay
 let typingTimer;               
 let typeInterval = 500;  
